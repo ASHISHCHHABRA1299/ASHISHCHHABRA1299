@@ -2,13 +2,15 @@
 
 <hr>
  <h2> TECHNOLOGIES USED </h2>
- <h4> JAVA<br> 
-      DATA STRUCTURES<br> 
-      ALGORITHMS<br> 
-      ANDROID DEVELOPMENT<br> 
-      FIREBASE<br> 
-      MLKIT<br> 
-      AUTOML VISION<br><h4><hr>
+ <ul> <li>JAVA</li> 
+      <li>DATA STRUCTURES</li> 
+      <li>ALGORITHMS</li> 
+      <li>ANDROID DEVELOPMENT</li> 
+      <li>FIREBASE</li> 
+      <li>MLKIT</li> 
+ <li>AUTOML VISION</li>
+ </ul>
+ <hr>
    
    <a href="https://www.linkedin.com/in/ashish-chhabra-131104156/"> LINKEDIN </a><hr>
    <a href="https://leetcode.com/chhabraashish123/">LEETCODE</a><hr>
