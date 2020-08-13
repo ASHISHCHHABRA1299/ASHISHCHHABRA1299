@@ -18,9 +18,6 @@
   
  
  
- <h3> Take a look at my stats :P </h3>
- <img src="https://github-readme-stats.vercel.app/api?username=ASHISHCHHABRA1299&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
 
 - 💬 Ask me about Java, Data Structures, Algorithms and Android
 - 📫 How to reach me: chhabraashish123@gmail.com
