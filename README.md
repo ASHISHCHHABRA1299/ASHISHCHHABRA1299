@@ -1,6 +1,8 @@
 ### 👋 Hey! Welcome to my Github. <br> I am an IT engineering student, learner, currently studying at Bharati Vidyapeeth College<br> of Engineering,Delhi and always curious about new technologies
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
-<hr>
+
+- 📝[Resume](https://drive.google.com/file/d/15vJHhFwvNvq8kohf0m72yrTOjvgQvTIN/view?usp=sharing)
+
  <h2> TECHNOLOGIES USED </h2>
  <ul> <li>JAVA</li> 
       <li>DATA STRUCTURES</li> 
