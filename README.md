@@ -16,7 +16,5 @@
    <a href="mailto:chhabraashish123@gmail.com">
     <img align="left" alt="Ashish Chhabra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  <hr>
-
 
 
