@@ -1,5 +1,5 @@
 ### 👋 Hey! Welcome to my Github. <br> I am an IT engineering student, learner, currently studying at Bharati Vidyapeeth College<br> of Engineering,Delhi and always curious about new technologies
-
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 <hr>
  <h2> TECHNOLOGIES USED </h2>
  <ul> <li>JAVA</li> 
@@ -11,13 +11,12 @@
  <li>AUTOML VISION</li>
  </ul>
  <hr>
-   
-   <a href="https://www.linkedin.com/in/ashish-chhabra-131104156/"> LINKEDIN </a><hr>
-   <a href="https://leetcode.com/chhabraashish123/">LEETCODE</a><hr>
-   <a href="https://www.interviewbit.com/profile/ashishchhabra1299">INTERVIEW_BIT</a><hr>
-  
- 
- 
+ <a href="https://www.linkedin.com/in/ashish-chhabra-131104156/"><img align="left" alt="Ashish Chhabra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
+   <a href="https://leetcode.com/chhabraashish123/"><img align="left" alt="Ashish's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
+   <a href="mailto:chhabraashish123@gmail.com">
+    <img align="left" alt="Ashish Chhabra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  <hr>
 
-- 💬 Ask me about Java, Data Structures, Algorithms and Android
-- 📫 How to reach me: chhabraashish123@gmail.com
+
+
