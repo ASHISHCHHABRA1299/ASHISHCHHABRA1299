@@ -19,5 +19,13 @@
    <a href="mailto:chhabraashish123@gmail.com">
     <img align="left" alt="Ashish Chhabra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+ <br><hr>
+<details>
+<summary>📊 Github Stats</summary>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ASHISHCHHABRA1299&show_icons=true&theme=gotham" alt="ASHISHCHHABRA1299 | Stats" />
+
+</details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ASHISHCHHABRA1299}/count.svg)
 
