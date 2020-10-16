@@ -9,12 +9,12 @@ JAVA | DATA STRUCTURES | ALGORITHMS | ANDROID | FIREBASE | MLKIT | AUTOML VISION
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
  
- <a href="https://www.linkedin.com/in/ashish-chhabra-131104156/"><img align="left" alt="Ashish Chhabra | Linkedin" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
-   <a href="https://leetcode.com/chhabraashish123/"><img align="left" alt="Ashish's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
-   <a href="mailto:chhabraashish123@gmail.com">
+ <a href="https://www.linkedin.com/in/ashish-chhabra-131104156/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Ashish Chhabra | Linkedin" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
+   <a href="https://leetcode.com/chhabraashish123/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Ashish's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
+   <a href="mailto:chhabraashish123@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="Ashish Chhabra | Gmail" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  <a href="http://ashishchhabra.me/"><img align="left" alt="Ashish's Portfolio" width="30px" src="https://user-images.githubusercontent.com/35839720/94896511-45173680-04ab-11eb-942d-706653a11042.png" /></a>
+  <a href="http://ashishchhabra.me/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Ashish's Portfolio" width="30px" src="https://user-images.githubusercontent.com/35839720/94896511-45173680-04ab-11eb-942d-706653a11042.png" /></a>
 <br>
 <hr>
 
