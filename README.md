@@ -18,17 +18,10 @@
 <br>
 <hr>
 
-
-
 - 📝[Resume](https://github.com/ASHISHCHHABRA1299/ASHISHCHHABRA1299/files/5103865/Final_Resume2.pdf)
 <!--(https://drive.google.com/file/d/15vJHhFwvNvq8kohf0m72yrTOjvgQvTIN/view?usp=sharing)--!>
 
-
- <br><hr>
-<details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ASHISHCHHABRA1299&show_icons=true&theme=gotham" alt="ASHISHCHHABRA1299 | Stats" />
-
-</details>
-
+ <br>
+<img src="https://github-readme-stats.vercel.app/api?username=AshishOhri&theme=radical&show_icons=true&count_private=true&hide=stars"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHISHCHHABRA1299&langs_count=7&layout=compact&theme=radical" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=ashishchhabra1299" />
