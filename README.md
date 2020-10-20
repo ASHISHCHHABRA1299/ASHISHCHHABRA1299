@@ -22,6 +22,6 @@
 <!--(https://drive.google.com/file/d/15vJHhFwvNvq8kohf0m72yrTOjvgQvTIN/view?usp=sharing)--!>
 
  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=AshishOhri&theme=radical&show_icons=true&count_private=true&hide=stars"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ASHISHCHHABRA1299&theme=radical&show_icons=true&count_private=true&hide=stars"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHISHCHHABRA1299&langs_count=7&layout=compact&theme=radical" />
 <img src="https://visitor-badge.glitch.me/badge?page_id=ashishchhabra1299" />
